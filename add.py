@@ -1,4 +1,4 @@
 a = int(input())
-b = 2
+b = 3
 c = a+b
 print("dani"+str(c))
